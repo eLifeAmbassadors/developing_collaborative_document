@@ -1,8 +1,13 @@
-# Developing Collaborative Document
+# Developing Collaborative Documents using GitHub
 
-**References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and Kirstie Whitaker's presentation on [Friendly GitHub Intro](https://github.com/KirstieJane/friendly-github-intro):**
+**These resources are forked from the version CC-BY Malvika Sharan – GitHub repository in fork details above, website version at https://malvikasharan.github.io/developing_collaborative_document/. References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and Kirstie Whitaker's presentation on [Friendly GitHub Intro](https://github.com/KirstieJane/friendly-github-intro):**
 
 *Please use this [presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing) to guide your workshop*
+
+## Modifications for eLife Ambassadors
+
+Modifications made from original:
+<TBD>
 
 ### About this repository
 
