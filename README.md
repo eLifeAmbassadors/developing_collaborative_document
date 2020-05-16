@@ -7,7 +7,15 @@
 ## Modifications for eLife Ambassadors
 
 Modifications made from original:
-<TBD>
+- updated goals
+- prepare & adapt handout material covering the following areas:
+    * Collaboration and version control (versioning)
+    * GitHub
+    * GitHub folder/project is also known as repository/repo
+    * Creating a repo
+    * Playing around with the repo
+    * Collaborating with others
+    * Useful GitHub features
 
 ### About this repository
 
@@ -21,7 +29,7 @@ GitHub also provides access control (who can access your files, who can read or 
 
 - The goal is to make you comfortable with a Collaborative workflow in the GitHub interface. 
 - Practice adding resources to online project folders, working with tasks and issues, writing messages when committing to any change, making and reviewing change requests from others and merging them. 
-- You'll also practice good communication with contributors.
+- Get set up to contribute repositories and collaborate within the eLife Ambassadors GitHub organisation.
 
 ### Prerequisite
 
@@ -29,22 +37,7 @@ No prior experience with GitHub is needed. Bring any real-life scenario, where d
 
 ### For learners
 
-If you are a learner, you can [start Here](/lessons/1-collaborative-documentation.md), and use this *[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)* to guide your learning pace.
-
-## For the instructors
-
-1. Define the goal for this project.
-1. Decide on the date, time and venue for this course.
-1. Define your target audience and their requirements.
-1. Create a README file and add the information there.
-1. Create handout material covering the following areas:
-    * Collaboration and version control (versioning)
-    * GitHub
-    * GitHub folder/project is also known as repository/repo
-    * Creating a repo
-    * Playing around with the repo
-    * Collaborating with others
-    * Useful GitHub features
+If you are a learner, you can [start Here](/lessons/1-collaborative-documentation.md), and use this *[presentation] (link)* to guide your learning pace.
 
 *[Main reference: Friendly GitHub Intro by Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro)*
 
